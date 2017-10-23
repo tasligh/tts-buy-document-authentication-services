@@ -40,9 +40,7 @@ Additional information is provided in Section 3 of the RFQ, but in short:
 
 4. [Attachment C - SLA Requirements](solicitation_documents/Attachment-C_SLA_Requirements.xlsx)
 
-5. [Attachment D - Security Option 1](solicitation_documents/Attachment-D_Security_Option_1.docx)
-
-6. [Attachment E - Security Option 2](solicitation_documents/Attachment-E_Security_Option_2.docx)
+5. [Attachment D - Deployment Options](solicitation_documents/Attachment-D_Deployment_Options.pdf)
 
 ## Contributing
 
