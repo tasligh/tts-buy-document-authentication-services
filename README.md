@@ -1,6 +1,6 @@
 # Login.gov Document Authentication Services
 
-Please submit any questions as [an Issue](https://github.com/18F/tts-buy-document-authentication-services/issues) in this repository by *November 15, 2017 at 1:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+This is the GitHub repository for [TTS_DOCAUTH](https://www.fbo.gov/index?id=667170854a2b71ab27c82846e3baeea8), posted on FedBizOpps.gov. Please submit any questions as [an Issue](https://github.com/18F/tts-buy-document-authentication-services/issues) in this repository by *November 15, 2017 at 1:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
 **Proposals are due by November 30, 2017 at 1:00pm EST.**
 
@@ -42,7 +42,7 @@ Additional information is provided in Section 3 of the RFQ, but in short:
 
 5. [Attachment D - Deployment Options](solicitation_documents/Attachment-D_Deployment_Options.pdf)
 
-6. [Past Performance Questionnaire](solicitation_documents/Past_Performance_Questionnaire.docx)
+6. [Past Performance Questionnaire](https://www.fbo.gov/utils/view?id=20f8683c151695011561664cb82d82bb) _Note: Link is to a document hosted on FBO.gov._
 
 ## Contributing
 
