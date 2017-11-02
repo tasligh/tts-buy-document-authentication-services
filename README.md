@@ -42,6 +42,8 @@ Additional information is provided in Section 3 of the RFQ, but in short:
 
 5. [Attachment D - Deployment Options](solicitation_documents/Attachment-D_Deployment_Options.pdf)
 
+6. [Past Performance Questionnaire](solicitation_documents/Past_Performance_Questionnaire.docx
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
